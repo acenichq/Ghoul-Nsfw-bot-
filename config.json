@@ -1,0 +1,12 @@
+{
+  "prefix": "^",
+  "token": "",
+  "owners": [""],
+  "footer": "Made by naitik.exe_",
+
+  "msg": {
+    "nsfwWarn": "You must use this command in an nsfw channel!",
+    "loading": "Please wait...",
+    "imageNotLoading": ":)"
+  }
+}
